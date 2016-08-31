@@ -19,7 +19,7 @@
         </feature>
       </config-file>
 	  
-	  <framework src="com.google.android.gms:play-services-ads:8.4+" />
+	  <framework src="com.google.android.gms:play-services-ads:+" />
 
       <config-file parent="/manifest" target="AndroidManifest.xml">
         <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
